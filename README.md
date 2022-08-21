@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MSaYeD a Software Developer @ Amazon.
+- 👋 Hi, I’m @MSaYeD a Software Engineer @ Amazon.
 - 👀 I’m interested in Software Development usnig Java technologies.
 - 🌱 I’m working on enhancing my skills in Data Stucture and Algotithms.
 - 💞️ I’m looking to collaboration on Problem Solving.
